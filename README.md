@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0d2818,100:0d1117&height=220&section=header&text=Abdul%20Basid&fontSize=50&fontColor=26a641&fontAlignY=32&desc=Android%20Developer%20%7C%20Kotlin%20%26%20Jetpack%20Compose&descSize=20&descColor=8b949e&descAlignY=52&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0d2818,100:0d1117&height=220&section=header&text=Abdul%20Basid&fontSize=50&fontColor=26a641&fontAlignY=32&desc=Android%20Developer%20%40%20Deelo&descSize=20&descColor=8b949e&descAlignY=52&animation=fadeIn" />
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=26A641&center=true&vCenter=true&random=false&width=750&lines=Android+Developer+%E2%80%A2+Kotlin+%26+Jetpack+Compose;Building+modern%2C+high-performance+mobile+apps;Backend+with+Ktor%2C+Node.js+%26+GraphQL;Clean+Architecture+%E2%80%A2+SOLID+%E2%80%A2+DSA)](https://git.io/typing-svg)
 
@@ -22,6 +22,7 @@
 ```yaml
 name: Abdul Basid
 role: Android Developer
+company: Deelo (deelo.in)
 focus: Mobile-first architecture with Kotlin & Jetpack Compose
 location: Kottayam, Kerala, India
 since: March 2024
@@ -30,7 +31,7 @@ since: March 2024
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abasid448&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=26a641&text_color=8b949e&langs_count=6" width="320" />
 
 - 📱 Building **Android** apps with **Kotlin** & **Jetpack Compose**
-- 🏗️ Leading mobile development at an early-stage startup since **March 2024**
+- 🏗️ Android Developer at **[Deelo](https://deelo.in)** since **March 2024**
 - ⚙️ Backend experience with **Ktor**, **Node.js**, **GraphQL** & **MongoDB**
 - 🧩 Grounded in **Clean Architecture**, **SOLID** & **DSA**
 - 🌱 Continuously exploring scalable app architecture & performance
