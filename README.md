@@ -42,12 +42,12 @@ since: March 2024
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abasid448&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=26a641&text_color=8b949e&langs_count=6" width="320" />
 
-- 📱 Building **Android** apps with **Kotlin** & **Jetpack Compose**
-- 🏗️ Android Developer at **[Deelo](https://deelo.in)** since **March 2024**
-- ⚙️ Backend experience with **Ktor**, **Node.js**, **GraphQL** & **MongoDB**
+- 📱 **Android** engineer at heart — **Kotlin** & **Jetpack Compose**
+- 🏗️ Building **[Deelo](https://deelo.in)** since **March 2024** — a multi-surface local-services platform (**Android · iOS · Web · GraphQL backend**)
+- 🌐 Across the stack: **React / Next.js / TypeScript** web apps backed by a **Node.js + Apollo GraphQL** API
+- 🗄️ Data & infra: **MongoDB**, **Redis**, **AWS (S3 / DynamoDB)** & **Firebase**
 - 🧩 Grounded in **Clean Architecture**, **SOLID** & **DSA**
-- 🌱 Continuously exploring scalable app architecture & performance
-- 🤝 Open to collaborating on **Android / Kotlin** projects
+- 🤝 Open to collaborating on **Android · Kotlin · full-stack** projects
 
 <br clear="right"/>
 
@@ -57,7 +57,7 @@ since: March 2024
 
 <div align="center">
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=kotlin,java,cpp,androidstudio,flutter,nodejs,graphql,mongodb,git,idea,html,css&perline=6&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=kotlin,swift,java,ts,js,cpp,react,nextjs,flutter,nodejs,express,graphql,mongodb,redis,aws,firebase,androidstudio,idea,git,vscode&perline=10&theme=dark" />
 </a>
 </div>
 
@@ -65,53 +65,90 @@ since: March 2024
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"> Tech Stack
 
-<details>
-<summary><b>Mobile & Frontend</b></summary>
+<details open>
+<summary><b>📱 Mobile</b></summary>
 <br/>
 
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![XML](https://img.shields.io/badge/XML-EB8C00?style=for-the-badge&logo=xml&logoColor=white)
+
+</details>
+
+<details>
+<summary><b>🌐 Web & Frontend</b></summary>
+<br/>
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 </details>
 
 <details>
-<summary><b>Languages</b></summary>
+<summary><b>⚙️ Backend & APIs</b></summary>
+<br/>
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![Apollo GraphQL](https://img.shields.io/badge/Apollo_GraphQL-311C87?style=for-the-badge&logo=apollographql&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![Ktor](https://img.shields.io/badge/Ktor-087CFA?style=for-the-badge&logo=ktor&logoColor=white)
+
+</details>
+
+<details>
+<summary><b>🗄️ Data, Cloud & Services</b></summary>
+<br/>
+
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Razorpay](https://img.shields.io/badge/Razorpay-0C2451?style=for-the-badge&logo=razorpay&logoColor=white)
+![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=twilio&logoColor=white)
+
+</details>
+
+<details>
+<summary><b>🧠 Languages & Concepts</b></summary>
 <br/>
 
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Swift](https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
-</details>
-
-<details>
-<summary><b>Backend & Database</b></summary>
-<br/>
-
-![Ktor](https://img.shields.io/badge/Ktor-087CFA?style=for-the-badge&logo=ktor&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+`Clean Architecture` · `MVVM` · `SOLID` · `REST & GraphQL APIs` · `Data Structures & Algorithms`
 
 </details>
 
-<details>
-<summary><b>Tools & Concepts</b></summary>
-<br/>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+## <img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" width="28"> Currently Building — Deelo
 
-`Clean Architecture` · `MVVM` · `SOLID` · `Data Structures & Algorithms`
+> **[Deelo](https://deelo.in)** is a local-services & delivery platform for Kerala. I work across its full surface area:
 
-</details>
+| Surface | Stack |
+| :------ | :---- |
+| 📱 **Android app** | Kotlin · Jetpack Compose · Clean Architecture |
+| 🍏 **iOS app** | Swift |
+| 🌐 **Web apps** (admin, onboarding, shops, landing) | React · Next.js · TypeScript |
+| ⚙️ **API backend** | Node.js · Express · Apollo GraphQL · MongoDB · Redis · AWS |
+
+<div align="center">
+
+[![Website](https://img.shields.io/badge/deelo.in-Visit-26a641?style=for-the-badge&logo=safari&logoColor=white&labelColor=0d1117)](https://deelo.in/)
+[![Google Play](https://img.shields.io/badge/Google_Play-Get_the_app-26a641?style=for-the-badge&logo=googleplay&logoColor=white&labelColor=0d1117)](https://play.google.com/store/apps/details?id=com.deelo.app)
+[![App Store](https://img.shields.io/badge/App_Store-Get_the_app-26a641?style=for-the-badge&logo=appstore&logoColor=white&labelColor=0d1117)](https://apps.apple.com/qa/app/deelo/id6741783815)
+
+</div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
@@ -150,6 +187,16 @@ A startup product built from inception with a **scalable architecture** and resp
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=abasid448&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=26a641&icon_color=26a641&text_color=8b949e&ring_color=26a641&include_all_commits=true&count_private=true" />
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=abasid448&theme=github-dark-blue&hide_border=true&background=0D1117&ring=26a641&fire=26a641&currStreakLabel=26a641&sideLabels=8b949e&dates=8b949e" />
+
+<br/>
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=abasid448&theme=github_dark" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=abasid448&theme=github_dark" />
+
+<br/>
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=abasid448&theme=github_dark" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=abasid448&theme=github_dark&utcOffset=5.5" />
 
 <br/>
 
