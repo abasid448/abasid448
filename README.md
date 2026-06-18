@@ -1,123 +1,167 @@
-<!-- PROFILE README · abasid448 -->
-
 <div align="center">
 
-# Hi, I'm Abdul Basid 👋
+<!-- Header Banner -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0d2818,100:0d1117&height=220&section=header&text=Abdul%20Basid&fontSize=50&fontColor=26a641&fontAlignY=32&desc=Android%20Developer%20%7C%20Kotlin%20%26%20Jetpack%20Compose&descSize=20&descColor=8b949e&descAlignY=52&animation=fadeIn" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=0A66C2&center=true&vCenter=true&width=600&lines=Android+Developer;Kotlin+%26+Jetpack+Compose+Specialist;Building+service-driven+mobile+apps;Backend+with+Ktor%2C+Node.js+%26+GraphQL)](https://github.com/abasid448)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=26A641&center=true&vCenter=true&random=false&width=750&lines=Android+Developer+%E2%80%A2+Kotlin+%26+Jetpack+Compose;Building+modern%2C+high-performance+mobile+apps;Backend+with+Ktor%2C+Node.js+%26+GraphQL;Clean+Architecture+%E2%80%A2+SOLID+%E2%80%A2+DSA)](https://git.io/typing-svg)
 
-### 📱 Android Developer · Kotlin & Jetpack Compose · Building service-driven mobile apps
+<br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-abasid448.github.io-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white)](https://abasid448.github.io)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Abdul%20Basid-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdul-bazzi)
-[![Email](https://img.shields.io/badge/Email-Get%20in%20touch-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:admin@deelo.in)
-
-![Profile Views](https://komarev.com/ghpvc/?username=abasid448&style=for-the-badge&color=0A66C2)
-[![GitHub followers](https://img.shields.io/github/followers/abasid448?style=for-the-badge&color=0A66C2)](https://github.com/abasid448?tab=followers)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdul-bazzi)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://abasid448.github.io)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:admin@deelo.in)
 
 </div>
 
----
+<br/>
 
-## 🚀 About Me
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-I'm a mobile developer based in **Kottayam, Kerala, India**, focused on building **modern, high-performance Android apps** with Kotlin and Jetpack Compose. Since **March 2024** I've worked as an App Developer at an early-stage startup, where I led an Android product from inception — designing a scalable architecture and shipping a responsive UI on top of a Node.js + GraphQL + MongoDB backend.
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Awal/Tarikul-Islam-Awal/main/assets/images/Hi.gif" width="28"> About Me
 
-- 🔭 **Currently:** Android Developer at an early-stage startup
-- 🌱 **Learning:** Advanced app architecture, scalable backend design, and clean-code principles (SOLID, DSA)
-- 🤝 **Open to:** Collaborating on Android / Kotlin Multiplatform projects
-- 💬 **Ask me about:** Jetpack Compose, Kotlin, Ktor, and mobile app architecture
-- 📫 **Reach me:** [admin@deelo.in](mailto:admin@deelo.in) · [LinkedIn](https://www.linkedin.com/in/abdul-bazzi)
+```yaml
+name: Abdul Basid
+role: Android Developer
+focus: Mobile-first architecture with Kotlin & Jetpack Compose
+location: Kottayam, Kerala, India
+since: March 2024
+```
 
----
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abasid448&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=26a641&text_color=8b949e&langs_count=6" width="320" />
 
-## 🛠️ Tech Stack
+- 📱 Building **Android** apps with **Kotlin** & **Jetpack Compose**
+- 🏗️ Leading mobile development at an early-stage startup since **March 2024**
+- ⚙️ Backend experience with **Ktor**, **Node.js**, **GraphQL** & **MongoDB**
+- 🧩 Grounded in **Clean Architecture**, **SOLID** & **DSA**
+- 🌱 Continuously exploring scalable app architecture & performance
+- 🤝 Open to collaborating on **Android / Kotlin** projects
 
-**Languages**
+<br clear="right"/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28"> Core Skills
+
+<div align="center">
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=kotlin,java,cpp,androidstudio,flutter,nodejs,graphql,mongodb,git,idea,html,css&perline=6&theme=dark" />
+</a>
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"> Tech Stack
+
+<details>
+<summary><b>Mobile & Frontend</b></summary>
+<br/>
+
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![XML](https://img.shields.io/badge/XML-EB8C00?style=for-the-badge&logo=xml&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+</details>
+
+<details>
+<summary><b>Languages</b></summary>
+<br/>
 
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
-**Mobile & Frontend**
+</details>
 
-![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-**Backend & Data**
+<details>
+<summary><b>Backend & Database</b></summary>
+<br/>
 
 ![Ktor](https://img.shields.io/badge/Ktor-087CFA?style=for-the-badge&logo=ktor&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
-**Tools**
+</details>
 
-![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+<details>
+<summary><b>Tools & Concepts</b></summary>
+<br/>
+
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-> **Concepts:** Data Structures & Algorithms · SOLID principles · Mobile app architecture (MVVM / Clean Architecture)
+`Clean Architecture` · `MVVM` · `SOLID` · `Data Structures & Algorithms`
 
----
+</details>
 
-## 📌 Featured Projects
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-| Project | Description | Tech Stack | Status |
-| :------ | :---------- | :--------- | :----- |
-| **Connect** | A dynamic social network app — posts, direct messaging, and community building. | `Kotlin` · `Jetpack Compose` · `Ktor` · `MongoDB` | 🟢 Active |
-| **Service-Driven Mobile App** | A startup product built from inception with a scalable architecture and responsive UI. | `Kotlin` · `Jetpack Compose` · `GraphQL` · `Node.js` · `MongoDB` | 🟢 In production |
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="28"> Featured Projects
 
-> 💡 _Pin these repositories on your profile so they appear directly beneath this README._
+<table>
+<tr>
+<td width="50%" valign="top">
 
----
+### Connect — Social Network App
 
-## 📊 GitHub Stats
+A dynamic social platform for connecting people through **posts** and **direct messaging**, focused on community building and seamless sharing.
 
-<div align="center">
+`Kotlin` `Jetpack Compose` `Ktor` `MongoDB`
 
-![Abdul's GitHub stats](https://github-readme-stats.vercel.app/api?username=abasid448&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+</td>
+<td width="50%" valign="top">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abasid448&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
+### Service-Driven Mobile App
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=abasid448&theme=tokyonight&hide_border=true)
+A startup product built from inception with a **scalable architecture** and responsive UI on a Node.js + GraphQL + MongoDB backend.
 
-</div>
+`Kotlin` `Jetpack Compose` `GraphQL` `Node.js` `MongoDB`
 
----
+</td>
+</tr>
+</table>
 
-## 💼 Experience & Education
+> 💡 _Pin these repositories on your profile so they render as cards directly beneath this README._
 
-**App Developer** — Early-stage startup · _March 2024 – Present_
-Android Developer leading mobile product development.
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-**Intern** — Brototype, Kottayam · _Sep 2022 – Dec 2023_
-
-**B.Sc. Computer Science** — College of Applied Sciences (IHRD), Puthuppally · _2019 – 2022_
-
----
-
-## 🤝 Let's Connect
+## GitHub Stats
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white)](https://abasid448.github.io)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdul-bazzi)
-[![Email](https://img.shields.io/badge/Email-admin@deelo.in-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:admin@deelo.in)
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=abasid448&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=26a641&icon_color=26a641&text_color=8b949e&ring_color=26a641&include_all_commits=true&count_private=true" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=abasid448&theme=github-dark-blue&hide_border=true&background=0D1117&ring=26a641&fire=26a641&currStreakLabel=26a641&sideLabels=8b949e&dates=8b949e" />
 
-<sub>⭐ Thanks for visiting — feel free to explore my pinned repositories below.</sub>
+<br/>
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=abasid448&bg_color=0d1117&color=8b949e&line=26a641&point=8b949e&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abasid448/abasid448/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abasid448/abasid448/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/abasid448/abasid448/output/github-contribution-grid-snake.svg" />
+</picture>
 
 </div>
 
-<!--
-OPTIONAL / TODO — uncomment or replace if you want to add:
-  • A typing-SVG hero banner (https://readme-typing-svg.demolab.com)
-  • Demo GIFs/screenshots of Connect or the startup app
-  • Live demo / Play Store links for your projects
-  • Personal contact details (phone / DOB) — intentionally omitted for privacy,
-    since this README is public and indexed by search engines.
--->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<div align="center">
+
+*Building modern Android experiences — one commit at a time.*
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=abasid448&color=26a641&style=for-the-badge&label=PROFILE+VIEWS" />
+
+</div>
+
+<br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0d2818,100:0d1117&height=100&section=footer" />
