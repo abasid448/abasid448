@@ -35,19 +35,19 @@
 name: Abdul Basid
 role: Android Developer
 company: Deelo (deelo.in)
-focus: Mobile-first architecture with Kotlin & Jetpack Compose
+focus: Mobile & web product engineering — Kotlin, React & GraphQL
 location: Kottayam, Kerala, India
 since: March 2024
 ```
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abasid448&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=26a641&text_color=8b949e&langs_count=6" width="320" />
 
-- 📱 **Android** engineer at heart — **Kotlin** & **Jetpack Compose**
-- 🏗️ Building **[Deelo](https://deelo.in)** since **March 2024** — a multi-surface local-services platform (**Android · iOS · Web · GraphQL backend**)
-- 🌐 Across the stack: **React / Next.js / TypeScript** web apps backed by a **Node.js + Apollo GraphQL** API
-- 🗄️ Data & infra: **MongoDB**, **Redis**, **AWS (S3 / DynamoDB)** & **Firebase**
+- 📱 **Android** engineer — **Kotlin** & **Jetpack Compose** (native Deelo app)
+- 🏗️ Building **[Deelo](https://deelo.in)** since **March 2024** across native Android, a **React Native (Expo)** app & a **Next.js** admin dashboard
+- 🌐 Web & cross-platform: **React · Next.js · React Native · TypeScript · Tailwind CSS**
+- 🔌 Data layer through **Apollo GraphQL** — typed end-to-end with GraphQL Code Generator
 - 🧩 Grounded in **Clean Architecture**, **SOLID** & **DSA**
-- 🤝 Open to collaborating on **Android · Kotlin · full-stack** projects
+- 🤝 Open to collaborating on **Android · Kotlin · React / full-stack** projects
 
 <br clear="right"/>
 
@@ -57,7 +57,7 @@ since: March 2024
 
 <div align="center">
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=kotlin,swift,java,ts,js,cpp,react,nextjs,flutter,nodejs,express,graphql,mongodb,redis,aws,firebase,androidstudio,idea,git,vscode&perline=10&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=kotlin,java,ts,js,cpp,react,nextjs,tailwind,nodejs,graphql,mongodb,redis,aws,firebase,flutter,androidstudio,idea,git,vscode&perline=10&theme=dark" />
 </a>
 </div>
 
@@ -72,7 +72,8 @@ since: March 2024
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![Swift](https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
 </details>
@@ -84,33 +85,34 @@ since: March 2024
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![shadcn/ui](https://img.shields.io/badge/shadcn/ui-000000?style=for-the-badge&logo=shadcnui&logoColor=white)
+![Radix UI](https://img.shields.io/badge/Radix_UI-161618?style=for-the-badge&logo=radixui&logoColor=white)
 
 </details>
 
 <details>
-<summary><b>⚙️ Backend & APIs</b></summary>
+<summary><b>🔌 GraphQL & Data</b></summary>
 <br/>
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![Apollo GraphQL](https://img.shields.io/badge/Apollo_GraphQL-311C87?style=for-the-badge&logo=apollographql&logoColor=white)
+![Apollo GraphQL](https://img.shields.io/badge/Apollo_Client-311C87?style=for-the-badge&logo=apollographql&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-![Ktor](https://img.shields.io/badge/Ktor-087CFA?style=for-the-badge&logo=ktor&logoColor=white)
+![GraphQL Code Generator](https://img.shields.io/badge/GraphQL_Codegen-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 
 </details>
 
 <details>
-<summary><b>🗄️ Data, Cloud & Services</b></summary>
+<summary><b>🧩 Libraries I reach for</b></summary>
 <br/>
 
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Razorpay](https://img.shields.io/badge/Razorpay-0C2451?style=for-the-badge&logo=razorpay&logoColor=white)
-![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=twilio&logoColor=white)
+![TanStack Table](https://img.shields.io/badge/TanStack_Table-FF4154?style=for-the-badge&logo=reactquery&logoColor=white)
+![React Hook Form](https://img.shields.io/badge/React_Hook_Form-EC5990?style=for-the-badge&logo=reacthookform&logoColor=white)
+![Zod](https://img.shields.io/badge/Zod-3E67B1?style=for-the-badge&logo=zod&logoColor=white)
+![Recharts](https://img.shields.io/badge/Recharts-22B5BF?style=for-the-badge&logo=chartdotjs&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
+![Leaflet](https://img.shields.io/badge/Leaflet-199900?style=for-the-badge&logo=leaflet&logoColor=white)
 
 </details>
 
@@ -121,11 +123,10 @@ since: March 2024
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Swift](https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
-`Clean Architecture` · `MVVM` · `SOLID` · `REST & GraphQL APIs` · `Data Structures & Algorithms`
+`Clean Architecture` · `MVVM` · `SOLID` · `GraphQL APIs` · `Data Structures & Algorithms`
 
 </details>
 
@@ -133,14 +134,14 @@ since: March 2024
 
 ## <img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" width="28"> Currently Building — Deelo
 
-> **[Deelo](https://deelo.in)** is a local-services & delivery platform for Kerala. I work across its full surface area:
+> **[Deelo](https://deelo.in)** is a local-services & delivery platform for Kerala. These are the surfaces I build:
 
 | Surface | Stack |
 | :------ | :---- |
-| 📱 **Android app** | Kotlin · Jetpack Compose · Clean Architecture |
-| 🍏 **iOS app** | Swift |
-| 🌐 **Web apps** (admin, onboarding, shops, landing) | React · Next.js · TypeScript |
-| ⚙️ **API backend** | Node.js · Express · Apollo GraphQL · MongoDB · Redis · AWS |
+| 📱 **Native Android app** | Kotlin · Jetpack Compose · Clean Architecture |
+| 🤳 **Cross-platform app** | React Native · Expo · TypeScript |
+| 🖥️ **Agent / admin dashboard** | Next.js 16 · React 19 · TypeScript · Tailwind · shadcn/ui |
+| 🔌 **Data layer** | Apollo GraphQL · graphql-ws subscriptions · Code Generator |
 
 <div align="center">
 
