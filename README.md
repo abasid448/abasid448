@@ -11,9 +11,21 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://abasid448.github.io)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:admin@deelo.in)
 
+<br/>
+
+![Open to Collaboration](https://img.shields.io/badge/Open_to-Collaboration-26a641?style=flat-square&labelColor=0d1117)
+![Focus](https://img.shields.io/badge/Focus-Android_%7C_Kotlin-26a641?style=flat-square&labelColor=0d1117)
+![Based in](https://img.shields.io/badge/Based_in-Kerala,_India-26a641?style=flat-square&labelColor=0d1117)
+
 </div>
 
 <br/>
+
+<div align="center">
+
+[![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/abasid448)
+
+</div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
@@ -143,6 +155,12 @@ A startup product built from inception with a **scalable architecture** and resp
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=abasid448&bg_color=0d1117&color=8b949e&line=26a641&point=8b949e&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+<br/>
+
+[![Trophies](https://github-profile-trophy.vercel.app/?username=abasid448&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+<br/>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abasid448/abasid448/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abasid448/abasid448/output/github-snake.svg" />
@@ -155,14 +173,26 @@ A startup product built from inception with a **scalable architecture** and resp
 
 <div align="center">
 
-*Building modern Android experiences — one commit at a time.*
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Let's Connect
+
+Always happy to talk **Android, Kotlin, and mobile architecture** — or just to connect.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdul-bazzi)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://abasid448.github.io)
+[![Email](https://img.shields.io/badge/Email-Say_Hi-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:admin@deelo.in)
+
+<br/>
+
+*Building modern Android experiences — one commit at a time.* 🚀
 
 <br/>
 
 <img src="https://komarev.com/ghpvc/?username=abasid448&color=26a641&style=for-the-badge&label=PROFILE+VIEWS" />
 
+<sub>⭐ Thanks for visiting — feel free to explore my pinned repositories below.</sub>
+
 </div>
 
 <br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0d2818,100:0d1117&height=100&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0d2818,100:0d1117&height=120&section=footer&text=Thanks%20for%20stopping%20by!&fontSize=22&fontColor=26a641&fontAlignY=70&animation=fadeIn" />
