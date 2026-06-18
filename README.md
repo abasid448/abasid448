@@ -144,9 +144,9 @@ A startup product built from inception with a **scalable architecture** and resp
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=abasid448&bg_color=0d1117&color=8b949e&line=26a641&point=8b949e&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abasid448/abasid448/output/github-contribution-grid-snake-dark.svg?v=2" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abasid448/abasid448/output/github-contribution-grid-snake.svg?v=2" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/abasid448/abasid448/output/github-contribution-grid-snake.svg?v=2" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abasid448/abasid448/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abasid448/abasid448/output/github-snake.svg" />
+  <img alt="Abdul Basid's contribution snake animation" src="https://raw.githubusercontent.com/abasid448/abasid448/output/github-snake.svg" />
 </picture>
 
 </div>
